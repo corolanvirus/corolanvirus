@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 je suis un bouliste / pétanquiste de rennomée 
+---
 
-<!--
-**corolanvirus/corolanvirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 GitHub Profile Trophy:
+---
+<a href="https://github.com/corolanvirus/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=corolanvirus&column=8&theme=radical&no-frame=true&no-bg=true"/>
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats:
+---
+![Kakise github stats](https://github-readme-stats.vercel.app/api?username=corolanvirus&theme=radical&show_icons=true&count_private=true)
+
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corolanvirus&theme=solarized_dark)
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=corolanvirus&theme=solarized_dark)
+![Kakise Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corolanvirus&theme=solarized_dark)
