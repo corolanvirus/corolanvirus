@@ -1,4 +1,4 @@
-### Hi there 👋 je suis un bouliste / pétanquiste de renomée 
+### Hi there 👋 je suis un bouliste / pétanquiste de renom
 ---
 
 ### 🏆 GitHub Profile Trophy:
