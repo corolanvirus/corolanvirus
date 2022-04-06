@@ -2,9 +2,6 @@
 <a href="https://github.com/corolanvirus/corolanvirus">
     <img src="https://komarev.com/ghpvc/?username=corolanvirus" alt="page views" />
   </a>
-  
-  <a>
-    <img src="./Capture d’écran 2022-04-06 à 5.23.12 PM.png" alt="page views" /></a>
 
 
 ### 🏆 GitHub Profile Trophy:
@@ -21,3 +18,7 @@
 ![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corolanvirus&theme=solarized_dark)
 ![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=corolanvirus&theme=solarized_dark)
 ![Kakise Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corolanvirus&theme=solarized_dark)
+
+Actif sur Gitlab également
+
+<a><img src="./Capture d’écran 2022-04-06 à 5.23.12 PM.png" width="250" height="250" /></a>
