@@ -24,10 +24,10 @@ Actif sur Gitlab également
 <a><img src="./Capture d’écran 2022-04-06 à 5.23.12 PM.png" width="750" height="300" /></a>
 
 
-**🍕 Pineapple on pizza? 🍍**
+**Github VS Gitlab**
 
 |                                                                                                                     |                                                               |                                                                |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------: | -------------------------------------------------------------: |
-| [Yes 👍](https://poll.fizzy.wtf/vote?corolanvirus.github_gitlab=yes&redirect=https://github.com/corolanvirus/poll%23poll) | ![](https://poll.fizzy.wtf/show?corolanvirus.github_gitlab=yes) | ![](https://poll.fizzy.wtf/count?corolanvirus.github_gitlab=yes) |
-| [No 👎](https://poll.fizzy.wtf/vote?corolanvirus.github_gitlab=no&redirect=https://github.com/corolanvirus/poll%23poll)   |  ![](https://poll.fizzy.wtf/show?corolanvirus.github_gitlab=no) |  ![](https://poll.fizzy.wtf/count?corolanvirus.github_gitlab=no) |
+| [Github](https://poll.fizzy.wtf/vote?corolanvirus.github_gitlab=yes&redirect=https://github.com/corolanvirus/poll%23poll) | ![](https://poll.fizzy.wtf/show?corolanvirus.github_gitlab=yes) | ![](https://poll.fizzy.wtf/count?corolanvirus.github_gitlab=yes) |
+| [Gitlab](https://poll.fizzy.wtf/vote?corolanvirus.github_gitlab=no&redirect=https://github.com/corolanvirus/poll%23poll)   |  ![](https://poll.fizzy.wtf/show?corolanvirus.github_gitlab=no) |  ![](https://poll.fizzy.wtf/count?corolanvirus.github_gitlab=no) |
 |                                                                                                                     |                                                         Total |     ![](https://poll.fizzy.wtf/count?corolanvirus.github_gitlab) |
