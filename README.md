@@ -21,4 +21,4 @@
 
 Actif sur Gitlab également
 
-<a><img src="./Capture d’écran 2022-04-06 à 5.23.12 PM.png" width="650" height="250" /></a>
+<a><img src="./Capture d’écran 2022-04-06 à 5.23.12 PM.png" width="750" height="300" /></a>
