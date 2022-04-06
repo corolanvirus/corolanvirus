@@ -1,4 +1,7 @@
 ### Hi there 👋 je suis un bouliste / pétanquiste de renom
+<a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  </a>
 ---
 
 ### 🏆 GitHub Profile Trophy:
