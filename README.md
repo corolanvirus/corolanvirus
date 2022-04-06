@@ -2,7 +2,7 @@
 <a href="https://github.com/corolanvirus/corolanvirus">
     <img src="https://komarev.com/ghpvc/?username=corolanvirus" alt="page views" />
   </a>
----
+
 
 ### 🏆 GitHub Profile Trophy:
 ---
