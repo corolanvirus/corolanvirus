@@ -1,9 +1,9 @@
 ### Hi there 👋 je suis un bouliste / pétanquiste de renom
-<a href="https://github.com/corolanvirus/corolanvirus">
+<a href="https://github.com/corolanvirus">
     <img src="https://komarev.com/ghpvc/?username=corolanvirus" alt="page views" />
   </a>
-  <a
-  href="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000">
+  <a href="https://github.com/corolanvirus">
+  <img src="https://img.shields.io/github/followers/corolanvirus.svg?style=social&label=Follow&maxAge=2592000">
     </a>
 
 
