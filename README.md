@@ -1,4 +1,4 @@
-### Hi there 👋 je suis un bouliste / pétanquiste de renom & j m'en ballec de vous
+### Hi there 👋 
 <a href="https://github.com/corolanvirus">
     <img src="https://komarev.com/ghpvc/?username=corolanvirus" alt="page views" />
   </a>
