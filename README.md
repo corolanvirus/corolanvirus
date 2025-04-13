@@ -23,7 +23,7 @@ Based in Paris 🇫🇷, I help startups build, structure, and scale their web a
 <h3>📆 My GitHub activity over the years</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanisouali&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=corolanvirus&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 
