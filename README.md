@@ -11,19 +11,6 @@ Having evolved in fast-paced startup environments, I’ve gained valuable experi
 What motivates me most is the opportunity to turn bold ideas into working products, build a positive team culture, and directly contribute to a company’s success.
 </p>
 
-<h3>🤝 The ideal co-founder</h3>
-
-<p>
-Someone with strong experience in business development and go-to-market strategy — perfectly complementing my technical leadership.<br/>
-We'd share values like respect, collaboration and good vibes, and we’d hit the market together with ambition.
-</p>
-
-<h3>🚀 Dream business topics</h3>
-
-<p>
-Corporate finance, education, energy, social media, enterprise software, SaaS, IoT, cybersecurity, tech audit...<br/>
-The dream business is the one that keeps me challenged and growing every day.
-</p>
 
 <h3>🧠 Tech I work with</h3>
 
