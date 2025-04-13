@@ -41,17 +41,6 @@ The dream business is the one that keeps me challenged and growing every day.
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3>📈 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanisouali&show_icons=true&count_private=true&hide=issues&hide_border=true&theme=default" alt="Yanis's GitHub stats" />
-</p>
-
-<h3>📆 My GitHub activity over the years</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanisouali&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
-</p>
 
 <h3>💼 What I do</h3>
 <ul>
