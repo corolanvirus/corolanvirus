@@ -20,10 +20,11 @@ Based in Paris 🇫🇷, I help startups build, structure, and scale their web a
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=corolanvirus&theme=flat&column=6" />
-</p>
+<h3>📆 My GitHub activity over the years</h3>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanisouali&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+</p>
 
 
 <h3>🚀 What I do</h3>
