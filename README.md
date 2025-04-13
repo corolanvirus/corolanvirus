@@ -26,6 +26,11 @@ Based in Paris 🇫🇷, I help startups build, structure, and scale their web a
   <img src="https://github-readme-stats.vercel.app/api?username=corolanvirus&show_icons=true&count_private=true&hide=issues&hide_border=true&theme=default" alt="Yanis's GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=corolanvirus&theme=github" alt="Contribution graph" />
+</p>
+
+
 
 <h3>🚀 What I do</h3>
 <ul>
