@@ -20,6 +20,13 @@ Based in Paris 🇫🇷, I help startups build, structure, and scale their web a
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+<h3>📈 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=corolanvirus&show_icons=true&count_private=true&hide=issues&hide_border=true&theme=default" alt="Yanis's GitHub stats" />
+</p>
+
+
 <h3>🚀 What I do</h3>
 <ul>
   <li>📱 I architect and develop tailor-made web & mobile apps</li>
