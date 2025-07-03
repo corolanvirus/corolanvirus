@@ -1,45 +1,74 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, I'm Yanis!</h1>
+# Hey there, I'm Yanis! 👋
 
-<p>Welcome to my profile 👋</br>
-I'm <b>Yanis Ouali</b>, a Lead Fullstack Developer & Fractional CTO with a strong business-oriented mindset.</br>
-Based in Paris 🇫🇷, I help startups build, structure, and scale their web and mobile platforms.</p>
-
-<h3>💡 What drives me</h3>
-
-<p>
-Having evolved in fast-paced startup environments, I’ve gained valuable experience in project ownership and in aligning tech decisions with strategic goals. <br/>
-What motivates me most is the opportunity to turn bold ideas into working products, build a positive team culture, and directly contribute to a company’s success.
-</p>
-
-
-<h3>🧠 Tech I work with</h3>
-
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Knex.js" src="https://img.shields.io/badge/-Knex.js-6B4C35?style=flat-square" />
-  <img alt="Objection.js" src="https://img.shields.io/badge/-Objection.js-7B3F00?style=flat-square" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
-
-<h3>💼 What I do</h3>
-<ul>
-  <li>📱 I architect and develop tailor-made web & mobile apps</li>
-  <li>🧩 I design modular, scalable and robust backends</li>
-  <li>📊 I support startup founders as a Fractional CTO during growth phases</li>
-  <li>💬 I translate business challenges into smart technical decisions</li>
-</ul>
-
-<h3>📫 Let's connect</h3>
-<p>Reach out to me on <a href="https://www.linkedin.com/in/yanis-ouali-a10a0119b/">LinkedIn</a></p>
+Welcome to my GitHub profile!  
+I'm **Yanis Ouali**, a **Lead Fullstack Developer** & **Fractional CTO** with a strong business-driven mindset.  
+Based in Paris 🇫🇷, I help startups **build, structure, and scale** their web & mobile platforms — from MVP to growth stage.
 
 ---
 
-<p align="center"><i>This README is updated manually — quality comes first ✨</i></p>
+## 💡 What drives me
+
+I thrive in **fast-paced, high-impact startup environments**, where ownership and clarity are key.
+
+What motivates me the most is:
+- Turning ambitious ideas into reliable, maintainable products 🚀  
+- Bridging business strategy with tech execution 🔍  
+- Building strong team cultures based on trust, curiosity, and delivery 🤝  
+- Supporting founders in key decisions across **tech, product, and business strategy**
+
+---
+
+## 🛠️ Tech I work with
+
+**Languages & Frameworks**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
+
+**Backend & Infra**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Knex.js](https://img.shields.io/badge/-Knex.js-47848F?logo=data&logoColor=white&style=flat-square)
+![Objection.js](https://img.shields.io/badge/-Objection.js-7E4C8B?logo=data&logoColor=white&style=flat-square)
+![Apollo](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?logo=apollo-graphql&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
+
+**Tooling & Workflow**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat-square)
+
+---
+
+## 💼 What I do
+
+🧠 **Fractional CTO** – I support founders during critical phases (MVP, product-market fit, scaling)  
+🛠 **Fullstack builder** – I deliver well-architected, maintainable platforms (React, Node.js, GraphQL, PostgreSQL)  
+📊 **Strategic partner** – I help with:
+- Fundraising strategy (pitch deck, storytelling, KPIs)
+- Business plans & financial modeling (forecasts, CAC, LTV…)
+- Product strategy & hiring (CTO-as-a-service, tech team building)
+👨‍💻 **Still hands-on** – I don’t just advise, I code and ship too  
+✅ **Operational rigor** – I use **OKRs**, agile rituals (sprints, retros), and structured decision-making to keep teams aligned
+
+---
+
+## 📈 GitHub Stats
+
+![Yanis GitHub Stats](https://github-readme-stats.vercel.app/api?username=corolanvirus&show_icons=true&hide_title=true&count_private=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corolanvirus&layout=compact&theme=react&hide=html)
+
+---
+
+## 🤝 Let’s connect
+
+I'm always open to:
+- Sparring on tech strategy or product vision  
+- Helping founders turn chaos into clarity  
+- Collaborating with thoughtful people who want to build cool stuff
+
+📬 Reach out on [LinkedIn](https://www.linkedin.com/in/yanisouali/) — always happy to chat!
