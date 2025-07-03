@@ -57,14 +57,6 @@ What motivates me the most is:
 
 ---
 
-## 📈 GitHub Stats
-
-[![Yanis GitHub Stats](https://github-readme-stats.vercel.app/api?username=corolanvirus&count_private=true&include_all_commits=true&show_icons=true&theme=react)](https://github.com/corolanvirus)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corolanvirus&layout=compact&theme=react&hide=html)](https://github.com/corolanvirus)
-
-
----
-
 ## 🤝 Let’s connect
 
 I'm always open to:
